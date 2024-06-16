@@ -21,3 +21,7 @@ spring.jpa.show-sql=true
 Authentication with JWT (Bearer Token):
 
 For accessing every API endpoint, please ensure to include a Bearer Token (JWT) in the Authorization header of your request. You can obtain this token by registering and signing into the application. Once you sign in, the application will provide you with a JWT token which you need to include in the Authorization header as "Bearer {your_token}" for subsequent requests.
+
+Postman Collection:
+
+I will also share the Postman collection with you via email.
